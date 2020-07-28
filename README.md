@@ -1,5 +1,7 @@
 This website is built upon the gatsby-starter-leaflet provided at https://github.com/colbyfayock/gatsby-starter-leaflet
 
+The website is currently hosted at: https://covid-map-git-master.maxnvdm.vercel.app/
+
 ### Starting from Scratch
 
 - Set up Yarn: https://yarnpkg.com/lang/en/docs/install/#mac-stable)[https://yarnpkg.com/lang/en/docs/install/
